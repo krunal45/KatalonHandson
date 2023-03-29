@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample test to check search functionality of google.</description>
+   <name>Google sample test</name>
+   <tag>google</tag>
+   <comment></comment>
+   <testCaseGuid>524da6a3-c728-43c6-aff1-2113241bb1bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bec46381-cdf5-428d-bf6c-fd78015d4b32</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bec46381-cdf5-428d-bf6c-fd78015d4b32</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

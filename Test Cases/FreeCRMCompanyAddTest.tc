@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add new companies</description>
+   <name>FreeCRMCompanyAddTest</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>7c06e5c8-556f-4962-90a0-2662931a5357</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2065efa6-d9bf-46f5-bfda-243a6b4f55cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ea90e5f-da0c-4cd8-8dff-9ad3e45a15a3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c5690d1-ee5e-484e-adaa-8a49bccea280</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://ui.cogmento.com/'</defaultValue>
+      <description></description>
+      <id>2065efa6-d9bf-46f5-bfda-243a6b4f55cd</id>
+      <masked>false</masked>
+      <name>webUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'krunal45@outlook.com'</defaultValue>
+      <description></description>
+      <id>5ea90e5f-da0c-4cd8-8dff-9ad3e45a15a3</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Noise@123'</defaultValue>
+      <description></description>
+      <id>7c5690d1-ee5e-484e-adaa-8a49bccea280</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Companies</name>
+   <tag></tag>
+   <elementGuidId>5058edd9-8edf-4315-bdda-434a3e04c90e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-nav']/div[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.item.active > span.item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4becbc0-009f-4692-b9e9-4b91dd21633a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-text</value>
+      <webElementGuid>46a8e08f-0155-4a80-aae9-08867d74651f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Companies</value>
+      <webElementGuid>0eb697f9-0612-474f-987c-1f600685cc1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/div[@class=&quot;menu-item-wrapper&quot;]/a[@class=&quot;item active&quot;]/span[@class=&quot;item-text&quot;]</value>
+      <webElementGuid>7c7a5a25-4721-441e-94ab-3fa26bd48391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-nav']/div[4]/a/span</value>
+      <webElementGuid>be7c4263-1258-45f1-86a1-566f0152b353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/following::span[1]</value>
+      <webElementGuid>f0e54963-8e36-4c5c-aa56-ccb62115fccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/following::span[2]</value>
+      <webElementGuid>dbc26be8-629f-4e30-a569-9b67100b0bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals'])[1]/preceding::span[1]</value>
+      <webElementGuid>a954dc45-07f9-4720-9ac7-edb9433bfc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/preceding::span[2]</value>
+      <webElementGuid>adf8db51-6f1a-4074-8093-3fe7b032c809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Companies']/parent::*</value>
+      <webElementGuid>c7c0a3f7-f9bc-43c2-a0fb-d6f2ca5047f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/span</value>
+      <webElementGuid>bf1cd69e-7eba-4907-be45-c4f39d5a6b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Companies' or . = 'Companies')]</value>
+      <webElementGuid>7336152c-27e0-4a08-8ebd-b723e43dd11c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
